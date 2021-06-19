@@ -1,0 +1,4 @@
+node_modules
+*.valid.png
+*.invalid.png
+store.db
